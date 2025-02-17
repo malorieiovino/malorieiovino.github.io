@@ -1,19 +1,26 @@
-# About Me 🌍💻
+# 👋 Hi, I'm Malorie!
 
-Hi, I'm Malorie! 👋
+I'm a **Computational Linguistics Master's student** passionate about **Natural Language Processing (NLP)**, **Machine Learning**, and **AI research**. My work focuses on linguistic data analysis, model bias in ML, and chatbot development.
 
-I'm a Computational Linguistics Master's student passionate about the intersection of language and technology. My expertise lies in leveraging **NLP**, **Machine Learning**, and **Exploratory Data Analysis** to solve linguistic challenges in technology and drive innovation in AI development.
-
-### Areas of Focus:
-- 🧠 Natural Language Processing (NLP)
-- 🤖 Machine Learning & Deep Learning
-- 📊 Big Data Analysis & Visualization
-- 🌐 AI Development and Ethical AI Practices
-
-### What Drives Me:
-I believe in the transformative power of AI to make technology more inclusive and accessible. My projects often explore linguistic diversity, biases in AI, and the role of language in human-computer interaction.
+🌍 **GitHub Portfolio**: [Visit my website](https://malorieiovino.github.io)
 
 ---
+
+## 🚀 Featured Projects  
+🔹 **[Multilingual Chatbot](https://github.com/malorieiovino/multilingual-chatbot)** → NLP chatbot for immigration & language learning.  
+🔹 **[Bias in Machine Learning](https://github.com/malorieiovino/bias-in-ml)** → Corpus linguistics study on gender bias.  
+🔹 **[Reddit Data Scraper](https://github.com/malorieiovino/reddit-scraper)** → Extracting asylum-related data from r/USCIS.
+
+---
+
+## 🛠 Skills & Technologies
+- **Programming:** Python, JavaScript, SQL  
+- **NLP Tools:** spaCy, NLTK, Hugging Face Transformers  
+- **Machine Learning:** Scikit-Learn, TensorFlow  
+- **Data Science:** Pandas, NumPy, Matplotlib  
+- **Web Development:** Flask, React, GitHub Pages
+
+--- 
 
 ### Connect With Me:
 - Portfolio: [GitHub Pages](https://malorieiovino.github.io/)
