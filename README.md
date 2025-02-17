@@ -8,7 +8,7 @@ I'm a **Computational Linguistics Master's student** passionate about **Natural 
 
 ## 🚀 Featured Projects  
 🔹 **[Multilingual Chatbot](https://github.com/malorieiovino/multilingual-chatbot)** → NLP chatbot for immigration & language learning.  
-🔹 **[Bias in Machine Learning](https://github.com/malorieiovino/bias-in-ml)** → Corpus linguistics study on gender bias.  
+🔹 **[USCIS I-589 & Global GDP EDA](https://github.com/malorieiovino/YOUR-NEW-REPO) → Analyzing asylum application trends and economic conditions using EDA.   
 🔹 **[Reddit Data Scraper](https://github.com/malorieiovino/reddit_nlp_scraping)** → Extracting queer slur usage in subreddits using corpus-linguistic and NLP techniques 
 
 ---
